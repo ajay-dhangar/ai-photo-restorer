@@ -1,8 +1,8 @@
-# [ai-photo-restorer-w3kt-ajay-dhangar.vercel.app/](https://ai-photo-restorer-w3kt-ajay-dhangar.vercel.app/)
+# [ai-photo-restorer-w3kt](https://ai-photo-restorer-w3kt-ajay-dhangar.vercel.app/)
 
-This project restores old face photos using AI. Watch the [15 second demo](https://twitter.com/nutlope/status/1612488923716136962).
+This project restores old face photos using AI. Watch the [15 second demo](https://twitter.com/AJAYDHA27250016/status/1613259716133801985?s=20&t=EsqhrOPbag8OXhNysfJ0bg).
 
-[![Face Photo Restorer](https://user-images.githubusercontent.com/99037494/211900195-d8e77c94-71b0-4275-aa91-4bf541538790.png)
+![Face Photo Restorer](https://user-images.githubusercontent.com/99037494/211900195-d8e77c94-71b0-4275-aa91-4bf541538790.png)
 
 ## How it works
 
