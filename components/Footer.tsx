@@ -41,6 +41,18 @@ export default function Footer() {
         </Link>
       </div>
       
+      <Typography.Title
+          level={5}
+          style={{ color: "white", textAlign: "center" }}
+        >
+          Made with ❤️ by
+          <a href="https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/">
+            {" "}
+            Ajay Dhangar.
+          </a>{" "}
+          <br />
+        </Typography.Title>
+      
     </footer>
   );
 }
