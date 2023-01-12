@@ -41,7 +41,7 @@ export default function Footer() {
         </Link>
       </div>
       
-      <Typography.Title
+      <div
           level={5}
           style={{ color: "white", textAlign: "center" }}
         >
@@ -51,7 +51,7 @@ export default function Footer() {
             Ajay Dhangar.
           </a>{" "}
           <br />
-        </Typography.Title>
+        </div>
       
     </footer>
   );
